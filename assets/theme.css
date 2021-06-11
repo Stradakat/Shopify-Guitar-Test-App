@@ -6996,3 +6996,16 @@ hr {
 
 .store-availability-list__phone {
   margin-bottom: 0; }
+
+/* add to cart button color */
+.btn--secondary-accent {
+  background-color: #0000ff;
+  color: white;
+  border-color: #0000ff;
+  border-width: 3px;
+}
+
+.btn--secondary-accent:hover {
+  border: 3px solid blue;
+  color: #000000;
+}
